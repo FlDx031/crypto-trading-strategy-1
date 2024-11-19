@@ -1,5 +1,6 @@
 # crypto-trading-strategy-1
-Algorithmic trading strategy using logistic regression for crypto markets.
+## Algorithmic trading strategy using logistic regression for crypto markets.
+
 The aim of this project is to implement a cryptocurrency trading strategy based on the logistic regression model.
 We will try to position “buy” (1) or “sell” (0). 
 
