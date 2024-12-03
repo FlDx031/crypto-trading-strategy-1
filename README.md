@@ -18,6 +18,7 @@ This project implements a crypto trading strategy. The strategy is based on a lo
 Install the required libraries:  
 ```bash
 pip install -r requirements.txt
+````
 
 ### Data
 The project uses historical Bitcoin price data, specifically the following columns:
