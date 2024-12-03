@@ -1,4 +1,4 @@
-# Crypto Trading Strategy 1 - Machine Learning Model
+# Crypto Trading Strategy 1 - Logistic Regression Model
 
 This project implements a crypto trading strategy. The strategy is based on a logistic regression model, trained with technical indicators to predict whether the price of Bitcoin (BTC) will go up or down in the next period. 
 
