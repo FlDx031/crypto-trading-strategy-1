@@ -37,6 +37,6 @@ To improve prediction performance, explore different machine learning models (e.
 Feel free to fork this repository, improve the code, and submit pull requests. If you have any questions or suggestions, please open an issue.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 Have fun :).
