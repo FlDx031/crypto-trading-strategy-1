@@ -1,6 +1,6 @@
-# Crypto Trading Strategy 1 - Logistic Regression Model
+# Logistic Regression Momentum Strategy on Bitcoin
 
-This project implements a crypto trading strategy. The strategy is based on a logistic regression model, trained with technical indicators to predict whether the price of Bitcoin (BTC) will go up or down in the next period. 
+This project implements a crypto trading strategy. The strategy is based on a logistic regression model, trained with technical indicators to predict whether the price of Bitcoin (BTC) will go up or down in the next period. This strategy is not backtested or deployed in real-world conditions, just for fun.
 
 ## Key Features
 - **Technical Indicators Used**:
